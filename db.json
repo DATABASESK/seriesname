@@ -1,13 +1,20 @@
 {
     "movies": [
       {
-        "uri": "https://mezha.media/wp-content/uploads/2022/12/Dzhoker-2-1-900x450.jpg",
-        "link": "https://goplayer3.com/embed-b861yibj91a6.html"
+        "uri": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "link": "https://embed.su/embed/movie/475557"
       },
+        
+      {
+        "uri": "https://mezha.media/wp-content/uploads/2022/12/Dzhoker-2-1-900x450.jpg",
+        "link": "https://embed.su/embed/movie/889737"
+      },
+        
       {
         "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHtORlra3T5d6jAqyAvs4UZYCntbhKD7J5Ejx4iyD2n-WVSZ6NwGXjjFTk&s=10",
         "link": "https://goplayer3.com/embed-f6p38q5hn7u6.html"
       },
+        
       {
         "uri": "https://lumiere-a.akamaihd.net/v1/images/deadpool2_5a659a75.jpeg?region=0,0,1600,686",
         "link": "https://goplayer3.com/embed-c0amlfqm6wbs.html"
@@ -21,7 +28,7 @@
         "link": "https://goplayer3.com/embed-6wgtef6fjoep.html"
       },
       {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Teenz",
+        "uri": "https://image.tmdb.org/t/p/w500/887dYySg0NJfL00mlnqoza8SIq6.jpg",
         "link": "https://goplayer3.com/embed-kqn9ulk28m7l.html"
       },
       {
@@ -30,12 +37,12 @@
       },
       
       {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Kung+Fu+Panda+4",
+        "uri": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
         "link": "https://goplayer3.com/embed-viyepp7tscay.html"
       },
       
       {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Godzilla+x+Kong",
+        "uri": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
         "link": "https://goplayer3.com/embed-ulrvn1r08vi2.html"
       },
       
