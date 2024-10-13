@@ -4,6 +4,148 @@
       ],
     "SK": [
         {
+      "name": "The Boys",
+      "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+      "link": "https://embed.su/embed/tv/76479/1/1",
+      "id": 76479
+    },
+
+   {
+      "name": "Peaky Blinders",
+      "uri": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "link": "https://embed.su/embed/tv/60574/1/1",
+      "id": 60574
+    },
+    
+     {
+      "name": "Stranger Things",
+      "uri": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "link": "https://embed.su/embed/tv/66732/1/1",
+      "id": 66732
+    },
+    
+    {
+      "name": "The Umbrella Academy",
+      "uri": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+      "link": "https://embed.su/embed/tv/75006/1/1",
+      "id": 75006
+    },
+
+    {
+      "name": "The Walking Dead",
+      "uri": "https://image.tmdb.org/t/p/w500/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
+      "link": "https://embed.su/embed/tv/1402/1/1",
+      "id": 1402
+    },
+    
+    
+    {
+      "name": "The Walking Dead: Daryl Dixon",
+      "uri": "https://image.tmdb.org/t/p/w500/AjnMXY6DH3nTDLYxdqksAH9Ft3n.jpg",
+      "link": "https://embed.su/embed/tv/211684/1/1",
+      "id": 211684
+    },
+
+    {
+      "name": "Fear the Walking Dead",
+      "uri": "https://image.tmdb.org/t/p/w500/l7N9aS6VyYvjelKoCB2eZge0Qky.jpg",
+      "link": "https://embed.su/embed/tv/62286/1/1",
+      "id": 62286
+    },
+
+     {
+      "name": "The Walking Dead: The Ones Who Live",
+      "uri": "https://image.tmdb.org/t/p/w500/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+      "link": "https://embed.su/embed/tv/206586/1/1",
+      "id": 206586
+    },
+
+      {
+      "name": "The Walking Dead: Dead City",
+      "uri": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "link": "https://embed.su/embed/tv/194583/1/1",
+      "id": 194583
+    },
+
+    {
+      "name": "Wednesday",
+      "uri": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "link": "https://embed.su/embed/tv/119051/1/1",
+      "id": 119051
+    },
+
+    {
+      "name": "Breaking Bad",
+      "uri": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "link": "https://embed.su/embed/tv/1396/1/1",
+      "id": 1396
+    },
+
+     {
+      "name": "Lost in Space",
+      "uri": "https://image.tmdb.org/t/p/w500/dGhtCpYZutuso2P3GKWnQnqwhSi.jpg",
+      "link": "https://embed.su/embed/tv/3051/1/1",
+      "id": 3051
+    },
+
+     {
+      "name": "Sex Education",
+      "uri": "https://image.tmdb.org/t/p/w500/4Bph0hhnDH6dpc0SZIV522bLm4P.jpg",
+      "link": "https://embed.su/embed/tv/81356/1/1",
+      "id": 81356
+    },
+    
+    {
+      "name": "Loki",
+      "uri": "https://image.tmdb.org/t/p/w500/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+      "link": "https://embed.su/embed/tv/84958/1/1",
+      "id": 84958
+    },
+
+     {
+      "name": "Suits",
+      "uri": "https://image.tmdb.org/t/p/w500/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+      "link": "https://embed.su/embed/tv/37680/1/1",
+      "id": 37680
+    },
+
+    {
+      "name": "Oppenheimer",
+      "uri": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "link": "https://embed.su/embed/movie/872585",
+      "id": 872585,
+      "rating": 8.087
+    },
+
+    {
+      "name": "Vikings",
+      "uri": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "link": "https://embed.su/embed/tv/44217/1/1",
+      "id": 44217
+    },
+
+    {
+      "name": "Marvel's Agents of S.H.I.E.L.D.",
+      "uri": "https://image.tmdb.org/t/p/w500/cXiETfFK1BTLest5fhTLfDLRdL6.jpg",
+      "link": "https://embed.su/embed/tv/1403/1/1",
+      "id": 1403
+    },
+
+    {
+      "name": "Emily in Paris",
+      "uri": "https://image.tmdb.org/t/p/w500/qYGIf2QAhSIa5Xbf72QvLtte2e8.jpg",
+      "link": "https://embed.su/embed/tv/82596/1/1",
+      "id": 82596
+    },
+
+    {
+      "name": "WandaVision",
+      "uri": "https://image.tmdb.org/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "link": "https://embed.su/embed/tv/85271/1/1",
+      "id": 85271
+    },
+        
+        {
             "name": "Golisoda Rising S01 EP-07 (Tam + Tel + Hin + Mal + Kan)",
             "uri": "https://bromovies.co/wp-content/uploads/2024/09/Golisoda-Rising-S01-2024-Multi-Language-Bromovies-Co.png",
             "link": "https://goplayer3.com/embed-zj7j65v9yeki.html"
@@ -1418,6 +1560,136 @@
         }
     ],
     "multi": [
+        {
+      "name": "Barbie: Princess Charm School",
+      "uri": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lI2jPbssax6XX5vDqB9mTJHGzfH.jpg",
+      "link": "https://embed.su/embed/tv/73456/1/1",
+      "id": 79
+    },
+
+    {
+      "name": "Dora the Explorer",
+      "uri": "https://image.tmdb.org/t/p/w500/wuZAi6JPdlX68s1p7iztmt0p13C.jpg",
+      "link": "https://embed.su/embed/tv/79/1/1",
+      "id": 79
+    },
+
+     {
+      "name": "The Powerpuff Girls",
+      "uri": "https://image.tmdb.org/t/p/w500/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+      "link": "https://embed.su/embed/tv/607/1/1",
+      "id": 607
+    },
+
+    {
+      "name": "Mickey Mouse Clubhouse",
+      "uri": "https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+      "link": "https://embed.su/embed/tv/3934/1/1",
+      "id": 3934
+    },
+ 
+     {
+      "name": "Thomas & Friends",
+      "uri": "https://image.tmdb.org/t/p/w500/s8RtAklJqHo6iMtKz1FIVBm92R2.jpg",
+      "link": "https://embed.su/embed/tv/2304/1/1",
+      "id": 2304
+    },
+
+    {
+      "name": "The Smurfs",
+      "uri": "https://image.tmdb.org/t/p/w500/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+      "link": "https://embed.su/embed/tv/5687/1/1",
+      "id": 5687
+    },
+
+     {
+      "name": "X-Men '97",
+      "uri": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+      "link": "https://embed.su/embed/tv/138502/1/1",
+      "id": 138502
+    },
+
+
+    {
+      "name": "Sherlock",
+      "uri": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+      "link": "https://embed.su/embed/tv/19885/1/1",
+      "id": 19885
+    },
+
+       {
+      "name": "Pawn Stars",
+      "uri": "https://image.tmdb.org/t/p/w500/8GeBQWQOTu7yLwNfCV6iWyL8xNf.jpg",
+      "link": "https://embed.su/embed/tv/21755/1/1",
+      "id": 21755
+    },
+
+     {
+      "name": "La Brea",
+      "uri": "https://image.tmdb.org/t/p/w500/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+      "link": "https://embed.su/embed/tv/128839/1/1",
+      "id": 128839
+    },
+    
+     {
+      "name": "Ben 10",
+      "uri": "https://image.tmdb.org/t/p/w500/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+      "link": "https://embed.su/embed/tv/4686/1/1",
+      "id": 4686
+    },
+
+    {
+      "name": "Ben 10: Omniverse",
+      "uri": "https://image.tmdb.org/t/p/w500/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+      "link": "https://embed.su/embed/tv/46922/1/1",
+      "id": 46922
+    },
+
+    {
+      "name": "Ben 10: Ultimate Alien",
+      "uri": "https://image.tmdb.org/t/p/w500/4mk8iFUbTyUtjeYZDU5zgPm2o1s.jpg",
+      "link": "https://embed.su/embed/tv/31109/1/1",
+      "id": 31109
+    },
+   
+     {
+      "name": "Sofia the First",
+      "uri": "https://image.tmdb.org/t/p/w500/AjtUB1siU3hvqNEA85VLOmuXu2I.jpg",
+      "link": "https://embed.su/embed/tv/46928/1/1",
+      "id": 46928
+    },
+
+
+   
+      {
+      "name": "Jackie Chan Adventures",
+      "uri": "https://image.tmdb.org/t/p/w500/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+      "link": "https://embed.su/embed/tv/240/1/1",
+      "id": 240
+    },
+
+    
+    {
+      "name": "Shaun the Sheep",
+      "uri": "https://image.tmdb.org/t/p/w500/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+      "link": "https://embed.su/embed/tv/3902/1/1",
+      "id": 3902
+    },
+
+    {
+      "name": "Barney & Friends",
+      "uri": "https://image.tmdb.org/t/p/w500/ijt54PA1pZ2ae68ODBk3vfWSK0e.jpg",
+      "link": "https://embed.su/embed/tv/4887/1/1",
+      "id": 4887
+    },
+
+    {
+      "name": "ONE PIECE",
+      "uri": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+      "link": "https://embed.su/embed/tv/111110/1/1",
+      "id": 111110
+    },
+        
         {
             "name": "Ghost Day (Tam + Tel + Hin + Tha)",
             "uri": "https://bromovies.co/wp-content/uploads/2024/10/Ghost-Day-2012-Multi-Language-Bromovies-Co.png",
