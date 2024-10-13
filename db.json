@@ -25,13 +25,6 @@
     },
     
     {
-      "name": "The Umbrella Academy",
-      "uri": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
-      "link": "https://embed.su/embed/tv/75006/1/1",
-      "id": 75006
-    },
-
-    {
       "name": "The Walking Dead",
       "uri": "https://image.tmdb.org/t/p/w500/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
       "link": "https://embed.su/embed/tv/1402/1/1",
@@ -1574,63 +1567,14 @@
       "id": 79
     },
 
-     {
-      "name": "The Powerpuff Girls",
-      "uri": "https://image.tmdb.org/t/p/w500/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
-      "link": "https://embed.su/embed/tv/607/1/1",
-      "id": 607
-    },
-
-    {
-      "name": "Mickey Mouse Clubhouse",
-      "uri": "https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
-      "link": "https://embed.su/embed/tv/3934/1/1",
-      "id": 3934
-    },
- 
-     {
-      "name": "Thomas & Friends",
-      "uri": "https://image.tmdb.org/t/p/w500/s8RtAklJqHo6iMtKz1FIVBm92R2.jpg",
-      "link": "https://embed.su/embed/tv/2304/1/1",
-      "id": 2304
-    },
-
+     
     {
       "name": "The Smurfs",
       "uri": "https://image.tmdb.org/t/p/w500/cezQyM5cO454vUdLiLOkv78K64D.jpg",
       "link": "https://embed.su/embed/tv/5687/1/1",
       "id": 5687
     },
-
-     {
-      "name": "X-Men '97",
-      "uri": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
-      "link": "https://embed.su/embed/tv/138502/1/1",
-      "id": 138502
-    },
-
-
-    {
-      "name": "Sherlock",
-      "uri": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
-      "link": "https://embed.su/embed/tv/19885/1/1",
-      "id": 19885
-    },
-
-       {
-      "name": "Pawn Stars",
-      "uri": "https://image.tmdb.org/t/p/w500/8GeBQWQOTu7yLwNfCV6iWyL8xNf.jpg",
-      "link": "https://embed.su/embed/tv/21755/1/1",
-      "id": 21755
-    },
-
-     {
-      "name": "La Brea",
-      "uri": "https://image.tmdb.org/t/p/w500/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
-      "link": "https://embed.su/embed/tv/128839/1/1",
-      "id": 128839
-    },
-    
+     
      {
       "name": "Ben 10",
       "uri": "https://image.tmdb.org/t/p/w500/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
@@ -1661,34 +1605,7 @@
 
 
    
-      {
-      "name": "Jackie Chan Adventures",
-      "uri": "https://image.tmdb.org/t/p/w500/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
-      "link": "https://embed.su/embed/tv/240/1/1",
-      "id": 240
-    },
-
-    
-    {
-      "name": "Shaun the Sheep",
-      "uri": "https://image.tmdb.org/t/p/w500/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
-      "link": "https://embed.su/embed/tv/3902/1/1",
-      "id": 3902
-    },
-
-    {
-      "name": "Barney & Friends",
-      "uri": "https://image.tmdb.org/t/p/w500/ijt54PA1pZ2ae68ODBk3vfWSK0e.jpg",
-      "link": "https://embed.su/embed/tv/4887/1/1",
-      "id": 4887
-    },
-
-    {
-      "name": "ONE PIECE",
-      "uri": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
-      "link": "https://embed.su/embed/tv/111110/1/1",
-      "id": 111110
-    },
+      
         
         {
             "name": "Ghost Day (Tam + Tel + Hin + Tha)",
