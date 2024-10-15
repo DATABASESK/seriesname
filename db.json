@@ -10,6 +10,16 @@
     
     }
      ],
+
+    "PRIVATE": [
+        {
+      "name": "Cartoons",
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscTTcXnvlv4QoULTvcG-lotmNw_1ZLpp4LMkIZ_qA9KOCM5khQAqQFEE&s=10",
+      "link": "https://tamiltoon.com/movies-list/"
+      
+    }
+    ],
+        
     "SK": [
         {
       "name": "The Boys",
