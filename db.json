@@ -5,75 +5,155 @@
 
     "netflix":[
   {
-    "name": "Series One",
-    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "name": "THE BOYS S01",
+    "uri": "https://0gomovies.mov//wp-content/uploads/The-Boys-S01-2019-Multi-Language-0gomovies.PNG",
     "videos": [
-      {
-        "title": "Episode 1: The Beginning",
-        "link": "https://goplayer3.com/embed-5ynp0l22zkeq.html"
-      },
-      {
-        "title": "Episode 2: The Adventure Continues",
-        "link": "https://goplayer3.com/embed-5ynp0l22zkeq.html"
-      },
-      {
-        "title": "Episode 3: The Finale",
-        "link": "https://goplayer3.com/embed-5ynp0l22zkeq.html"
-      }
+        {
+            "title": "Episode 1",
+            "link": "https://goplayer3.com/embed-j87iwteztd69.html"
+        },
+        {
+            "title": "Episode 2",
+            "link": "https://goplayer3.com/embed-rb50phe5js4e.html"
+        },
+        {
+            "title": "Episode 3",
+            "link": "https://goplayer3.com/embed-f0n5kgew1hxv.html"
+        },
+        {
+            "title": "Episode 4",
+            "link": "https://goplayer3.com/embed-uwkly2fu8rnq.html"
+        },
+        {
+            "title": "Episode 5",
+            "link": "https://goplayer3.com/embed-8nhezh8u29x6.html"
+        },
+        {
+            "title": "Episode 6",
+            "link": "https://goplayer3.com/embed-kzbubqloaswc.html"
+        },
+        {
+            "title": "Episode 7",
+            "link": "https://goplayer3.com/embed-o892r0kzlq0t.html"
+        },
+        {
+            "title": "Episode 8",
+            "link": "https://goplayer3.com/embed-d51umec6pw96.html"
+        }
     ]
   },
   {
-    "name": "Series Two",
-    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "name": "The Boys S02",
+    "uri": "https://0gomovies.mov//wp-content/uploads/The-Boys-S02-2020-Multi-Language-0gomovies.PNG",
     "videos": [
-      {
-        "title": "Episode 1: New Beginnings",
-        "link": "https://embed.su/embed/tv/60574/1/1"
-      },
-      {
-        "title": "Episode 2: The Challenge",
-        "link": "https://embed.su/embed/tv/2/1/2"
-      },
-      {
-        "title": "Episode 3: The Conclusion",
-        "link": "https://embed.su/embed/tv/60574/1/1"
-      }
+        {
+            "title": "Episode 1",
+            "link": "https://goplayer3.com/embed-mnqmrkk012v8.html"
+        },
+        {
+            "title": "Episode 2",
+            "link": "https://goplayer3.com/embed-zcbux14b6907.html"
+        },
+        {
+            "title": "Episode 3",
+            "link": "https://goplayer3.com/embed-bf0xcz9j1kr6.html"
+        },
+        {
+            "title": "Episode 4",
+            "link": "https://goplayer3.com/embed-yl1rgzdhjuar.html"
+        },
+        {
+            "title": "Episode 5",
+            "link": "https://goplayer3.com/embed-yk8wi7kzxm48.html"
+        },
+        {
+            "title": "Episode 6",
+            "link": "https://goplayer3.com/embed-ctiqtjixvrlx.html"
+        },
+        {
+            "title": "Episode 7",
+            "link": "https://goplayer3.com/embed-p1hytnawvb39.html"
+        },
+        {
+            "title": "Episode 8",
+            "link": "https://goplayer3.com/embed-zmt8w4bimi76.html"
+        }
     ]
   },
   {
-    "name": "Series Three",
-    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "name": "THE BOYS S03",
+    "uri": "https://0gomovies.mov//wp-content/uploads/The-Boys-S03-EP01-08-2022-Tam-Mal-Tel-Kan-Hin-Eng-Language-0gomovies-1.png",
     "videos": [
-      {
-        "title": "Episode 1: New Beginnings",
-        "link": "https://embed.su/embed/tv/60574/1/1"
-      },
-      {
-        "title": "Episode 2: The Challenge",
-        "link": "https://embed.su/embed/tv/2/1/2"
-      },
-      {
-        "title": "Episode 3: The Conclusion",
-        "link": "https://embed.su/embed/tv/60574/1/1"
-      }
+        {
+            "title": "Episode 1",
+            "link": "https://goplayer3.com/embed-xa0pp5w9xxj2.html"
+        },
+        {
+            "title": "Episode 2",
+            "link": "https://goplayer3.com/embed-ad5cfhm5t20u.html"
+        },
+        {
+            "title": "Episode 3",
+            "link": "https://goplayer3.com/embed-sap0t1m46r40.html"
+        },
+        {
+            "title": "Episode 4",
+            "link": "https://goplayer3.com/embed-krnkwqlfyp6b.html"
+        },
+        {
+            "title": "Episode 5",
+            "link": "https://goplayer3.com/embed-wa5bqbhb9v9u.html"
+        },
+        {
+            "title": "Episode 6",
+            "link": "https://goplayer3.com/embed-aurtj9a72txz.html"
+        },
+        {
+            "title": "Episode 7",
+            "link": "https://goplayer3.com/embed-9jc6a5h68ncu.html"
+        },
+        {
+            "title": "Episode 8",
+            "link": "https://goplayer3.com/embed-86cak9ziszpj.html"
+        }
     ]
   },
   {
-    "name": "Series four",
-    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "name": "THE BOYS S04",
+    "uri": "https://0gomovies.mov//wp-content/uploads/The-Boys-S04-EP01-03-2024-Tam-Mal-Tel-Kan-Hin-Eng-Language-0gomovies.png",
     "videos": [
-      {
-        "title": "Episode 1: New Beginnings",
-        "link": "https://embed.su/embed/tv/60574/1/1"
-      },
-      {
-        "title": "Episode 2: The Challenge",
-        "link": "https://embed.su/embed/tv/2/1/2"
-      },
-      {
-        "title": "Episode 3: The Conclusion",
-        "link": "https://embed.su/embed/tv/60574/1/1"
-      }
+        {
+            "title": "Episode 1",
+            "link": "https://goplayer3.com/embed-c8385uei223w.html"
+        },
+        {
+            "title": "Episode 2",
+            "link": "https://goplayer3.com/embed-vjdy2trnmep4.html"
+        },
+        {
+            "title": "Episode 3",
+            "link": "https://goplayer3.com/embed-3rhl0irpz4dj.html"
+        },
+        {
+            "title": "Episode 4",
+            "link": "https://goplayer3.com/embed-6xar1n07z9kl.html"
+        },
+        {
+            "title": "Episode 5",
+            "link": "https://goplayer3.com/embed-yvn3g5921j4a.html"
+        },
+        {
+            "title": "Episode 6",
+            "link": "https://goplayer3.com/embed-dt9vuiuyhqnf.html"
+        },
+        {
+            "title": "Episode 7",
+            "link": "https://goplayer3.com/embed-zmzhs70lsits.html"
+        },
+        {
+            "title": "Episode 8",
+            "link": "https://goplayer3.com/embed-aw8eb5ril276.html"
+        }
     ]
   },
     {
