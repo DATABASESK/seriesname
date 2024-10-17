@@ -39,7 +39,61 @@
         "link": "https://embed.su/embed/tv/60574/1/1"
       }
     ]
-  }
+  },
+  {
+    "name": "Series Three",
+    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "videos": [
+      {
+        "title": "Episode 1: New Beginnings",
+        "link": "https://embed.su/embed/tv/60574/1/1"
+      },
+      {
+        "title": "Episode 2: The Challenge",
+        "link": "https://embed.su/embed/tv/2/1/2"
+      },
+      {
+        "title": "Episode 3: The Conclusion",
+        "link": "https://embed.su/embed/tv/60574/1/1"
+      }
+    ]
+  },
+  {
+    "name": "Series four",
+    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "videos": [
+      {
+        "title": "Episode 1: New Beginnings",
+        "link": "https://embed.su/embed/tv/60574/1/1"
+      },
+      {
+        "title": "Episode 2: The Challenge",
+        "link": "https://embed.su/embed/tv/2/1/2"
+      },
+      {
+        "title": "Episode 3: The Conclusion",
+        "link": "https://embed.su/embed/tv/60574/1/1"
+      }
+    ]
+  },
+    {
+    "name": "Series five",
+    "uri": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "videos": [
+      {
+        "title": "Episode 1: New Beginnings",
+        "link": "https://embed.su/embed/tv/60574/1/1"
+      },
+      {
+        "title": "Episode 2: The Challenge",
+        "link": "https://embed.su/embed/tv/2/1/2"
+      },
+      {
+        "title": "Episode 3: The Conclusion",
+        "link": "https://embed.su/embed/tv/60574/1/1"
+      }
+    ]
+  }    
 ],
 
 
