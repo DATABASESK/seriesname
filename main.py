@@ -106,7 +106,7 @@ def main():
     base_url = "https://0gomovies.id/genre/watch-tamil-movies/"
 
     # Step 1: Fetch movie details
-    movies = fetch_movies(base_url, 10)
+    movies = fetch_movies(base_url, 40)
 
     # Check if movies were found
     if not movies:
