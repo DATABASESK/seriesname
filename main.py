@@ -2,6 +2,13 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import json
+import base64
+
+# GitHub configuration
+GITHUB_USERNAME = "DATABASESK"
+GITHUB_REPO = "seriesname"
+GITHUB_TOKEN = "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"
+GITHUB_FILE_PATH = "db.json"
 
 # Function to fetch movie details from the base URL
 def fetch_movies(base_url, pages):
@@ -57,7 +64,7 @@ def fetch_video_links(second_link):
     for a in soup.find_all('a', href=True):
         if 'link.php?link=' in a['href']:
             title = a.get_text(strip=True)
-            link = a['href'].replace('https://freshlifecircle.com/link.php?link=', '')
+            link = a['href'].replace('https://lesmandalas.net/link.php?link=', '')
 
             # Replace goplayer3.com with videooo.news
             link = link.replace('https://cdn.bewab.co/', 'https://videooo.news/')
@@ -68,13 +75,38 @@ def fetch_video_links(second_link):
 
     return video_links
 
+# Function to upload the JSON file to GitHub
+def upload_to_github(json_data):
+    url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{GITHUB_FILE_PATH}"
+
+    # Get the current file's SHA (if it exists)
+    response = requests.get(url, headers={"Authorization": f"token {GITHUB_TOKEN}"})
+    sha = response.json().get("sha") if response.status_code == 200 else None
+
+    # Prepare the payload for the API
+    content = base64.b64encode(json_data.encode()).decode()
+    payload = {
+        "message": "Update db.json with Netflix data",
+        "content": content
+    }
+    if sha:
+        payload["sha"] = sha
+
+    # Make the API request to create/update the file
+    response = requests.put(url, headers={"Authorization": f"token {GITHUB_TOKEN}"}, json=payload)
+
+    if response.status_code in [200, 201]:
+        print("db.json updated successfully on GitHub!")
+    else:
+        print(f"Failed to update db.json: {response.status_code} - {response.json()}")
+
 # Main function to run the script
 def main():
     # Base URL for the movie genre
     base_url = "https://0gomovies.id/genre/watch-tamil-movies/"
 
     # Step 1: Fetch movie details
-    movies = fetch_movies(base_url, 1)
+    movies = fetch_movies(base_url, 10)
 
     # Check if movies were found
     if not movies:
@@ -82,7 +114,7 @@ def main():
         return
 
     # Prepare the final output list
-    final_output = []
+    netflix_data = []
 
     # Loop through each movie and fetch video links
     for movie in movies:
@@ -98,17 +130,21 @@ def main():
         videos = fetch_video_links(second_link)
 
         # Append the formatted movie data to the final output
-        final_output.append({
+        netflix_data.append({
             "name": movie['title'],
             "uri": movie['image'],
             "videos": videos
         })
 
-    # Step 3: Save the output to a text file
-    with open('video_links.txt', 'w', encoding='utf-8') as file:
-        json.dump(final_output, file, indent=4)
+    # Step 2: Structure data under the "netflix" key
+    final_output = {"netflix": netflix_data}
 
-    print("Video links saved to video_links.txt")
+    # Convert the data to JSON format
+    json_data = json.dumps(final_output, indent=4)
+
+    # Step 3: Upload the JSON data to GitHub
+    upload_to_github(json_data)
 
 if __name__ == '__main__':
     main()
+
