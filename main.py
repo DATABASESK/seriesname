@@ -7,7 +7,7 @@ import base64
 # GitHub configuration
 GITHUB_USERNAME = "DATABASESK"
 GITHUB_REPO = "seriesname"
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 GITHUB_FILE_PATH = "db.json"
 
 # Function to fetch movie details from the base URL
